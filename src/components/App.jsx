@@ -1,7 +1,9 @@
+import Feedback from "./Feedback";
+
 function App() {
   return (
     <>
-      <h1>React Homework Template (Vite)</h1>
+      <Feedback />
     </>
   );
 }
